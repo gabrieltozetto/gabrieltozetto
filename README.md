@@ -11,7 +11,7 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href= "https://linkedin.com/in/https://www.linkedin.com/in/gabriel-tozetto-b593851a6/" target="blank"> <img alinhar = "centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/gabriel-tozetto-b593851a6/" altura="30" largura="40" /></a>
+<a href= "https://www.linkedin.com/in/gabriel-tozetto-b593851a6/" target="blank"> <img alinhar = "centro" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www. linkedin.com/in/gabriel-tozetto-b593851a6/" altura="30" largura="40" /></a>
 <a href="https://instagram.com/_gabrieltozetto" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gabrieltozetto" altura ="30" width="40" /></a>
 </p>
 
